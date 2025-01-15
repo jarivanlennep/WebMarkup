@@ -1,0 +1,5 @@
+Student name: Jari van Lennep
+o Student number: 723397
+o Student class: IT1C
+o GitHub Repository: your github repository URL
+o GitHub Pages URL: your github pages URL*
